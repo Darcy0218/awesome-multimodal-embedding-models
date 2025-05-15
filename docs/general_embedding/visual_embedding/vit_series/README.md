@@ -1,3 +1,5 @@
+[EN](#en)|[ZH](#zh)
+
 # ViT系列模型 / ViT Series Models
 
 <details open>

@@ -1,3 +1,5 @@
+[EN](#en)|[ZH](#zh)
+
 # InternViT系列模型 / InternViT Series Models
 
 <details open>

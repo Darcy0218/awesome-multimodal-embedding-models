@@ -1,3 +1,5 @@
+[EN](#en)|[ZH](#zh)
+
 # SigLiP系列模型 / SigLiP Series Models
 
 <details open>

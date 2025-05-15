@@ -1,3 +1,4 @@
+[EN](#en)|[ZH](#zh)
 # 街景专用模型系列 / Street Scene Model Series
 
 <details open>

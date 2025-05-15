@@ -1,3 +1,5 @@
+[EN](#en)|[ZH](#zh)
+
 # Gme-Qwen系列模型 / Gme-Qwen Series Models
 
 <details open>

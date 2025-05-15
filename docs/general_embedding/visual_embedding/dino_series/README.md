@@ -1,3 +1,5 @@
+[EN](#en)|[ZH](#zh)
+
 # DINO系列模型 / DINO Series Models
 
 <details open>

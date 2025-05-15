@@ -4,54 +4,56 @@
 
 ## 模型系列
 
-1. [ViT系列](vit_series/README.md)
+### 通用嵌入模型 (General Embedding Models)
+
+#### 视觉嵌入模型 (Visual Embedding Models)
+1. [ViT系列](docs/general_embedding/visual_embedding/vit_series/README.md)
    - vit-base-patch16-224-in21k
    - vit-huge-patch14-224-in21k
 
-2. [街景专用模型系列](street_clip_series/README.md)
-   - StreetCLIP
-
-3. [DINO系列](dino_series/README.md)
+2. [DINO系列](docs/general_embedding/visual_embedding/dino_series/README.md)
    - DINOv2系列 (small, base, large, giant)
    - WebSSL-DINO系列 (1b-7b各种变体)
 
-4. [SigLiP系列](siglip_series/README.md)
+### 专用嵌入模型 (Special Embedding Models)
+1. [街景专用模型系列](docs/special_embedding/street_clip_series/README.md)
+   - StreetCLIP
+
+#### 跨模态嵌入模型 (Cross-modal Embedding Models)
+1. [SigLiP系列](docs/general_embedding/cross_modal_embedding/siglip_series/README.md)
    - siglip2-giant-opt-patch16-384
 
-5. [InternViT系列](internvit_series/README.md)
+2. [InternViT系列](docs/general_embedding/cross_modal_embedding/internvit_series/README.md)
    - InternViT-300M-448px-V2_5
 
-6. [Gme-Qwen系列](gme_qwen_series/README.md)
+3. [Gme-Qwen系列](docs/general_embedding/cross_modal_embedding/gme_qwen_series/README.md)
    - gme-Qwen2-VL-7B-Instruct
 
 ## 使用说明
 
 每个系列的具体信息请查看对应目录下的README.md文件。
 
-## 目录
+## 目录结构
 
-- [模型列表](#模型列表)
-- [评估指标](#评估指标)
-- [应用场景](#应用场景)
-- [贡献指南](#贡献指南)
-
-## 模型列表
-
-### 文本-图像模型
-- CLIP (Contrastive Language-Image Pre-training)
-- OpenCLIP
-- CoCa (Contrastive Captioner)
-- BLIP-2
-- Flamingo
-
-### 文本-音频模型
-- CLAP (Contrastive Language-Audio Pre-training)
-- AudioCLIP
-
-### 多模态模型
-- ImageBind
-- CoDi
-- Unified-IO
+```
+.
+├── docs/                     # 文档目录
+│   ├── general_embedding/    # 通用嵌入模型
+│   │   ├── visual_embedding/ # 视觉嵌入模型
+│   │   │   ├── vit_series/   # ViT系列
+│   │   │   └── dino_series/  # DINO系列
+│   │   │
+│   │   └── cross_modal_embedding/ # 跨模态嵌入模型
+│   │       ├── siglip_series/    # SigLiP系列
+│   │       ├── internvit_series/ # InternViT系列
+│   │       └── gme_qwen_series/  # Gme-Qwen系列
+│   │
+│   └── special_embedding/    # 专用嵌入模型
+│       └── street_clip_series/   # 街景专用模型系列
+│
+├── README.md
+└── embedding_models_summary.md
+```
 
 ## 评估指标
 

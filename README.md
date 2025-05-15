@@ -1,7 +1,32 @@
-# Awesome Multimodal Embedding Models
+# 多模态嵌入模型总结
 
-这个仓库收集和总结了目前效果最好的多模态嵌入模型（Multimodal Embedding Models）。这些模型能够将不同模态的数据（如文本、图像、音频等）映射到同一个向量空间中，使得跨模态的相似度计算和检索成为可能。
+本项目收集和整理了各种多模态嵌入模型的详细信息，包括模型规格、输出维度和使用说明等。
 
+## 模型系列
+
+1. [ViT系列](vit_series/README.md)
+   - vit-base-patch16-224-in21k
+   - vit-huge-patch14-224-in21k
+
+2. [街景专用模型系列](street_clip_series/README.md)
+   - StreetCLIP
+
+3. [DINO系列](dino_series/README.md)
+   - DINOv2系列 (small, base, large, giant)
+   - WebSSL-DINO系列 (1b-7b各种变体)
+
+4. [SigLiP系列](siglip_series/README.md)
+   - siglip2-giant-opt-patch16-384
+
+5. [InternViT系列](internvit_series/README.md)
+   - InternViT-300M-448px-V2_5
+
+6. [Gme-Qwen系列](gme_qwen_series/README.md)
+   - gme-Qwen2-VL-7B-Instruct
+
+## 使用说明
+
+每个系列的具体信息请查看对应目录下的README.md文件。
 
 ## 目录
 

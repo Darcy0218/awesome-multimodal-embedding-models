@@ -8,26 +8,26 @@
 ### 通用嵌入模型 (General Embedding Models)
 
 #### 视觉嵌入模型 (Visual Embedding Models)
-1. [ViT系列](../../general_embedding/visual_embedding/vit_series/README.md)
+1. [ViT系列](general_embedding/visual_embedding/vit_series/README.md)
    - vit-base-patch16-224-in21k
    - vit-huge-patch14-224-in21k
 
-2. [DINO系列](../../general_embedding/visual_embedding/dino_series/README.md)
+2. [DINO系列](general_embedding/visual_embedding/dino_series/README.md)
    - DINOv2系列 (small, base, large, giant)
    - WebSSL-DINO系列 (1b-7b各种变体)
 
 ### 专用嵌入模型 (Special Embedding Models)
-1. [街景专用模型系列](../../special_embedding/street_clip_series/README.md)
+1. [街景专用模型系列](special_embedding/street_clip_series/README.md)
    - StreetCLIP
 
 #### 跨模态嵌入模型 (Cross-modal Embedding Models)
-1. [SigLiP系列](../../general_embedding/cross_modal_embedding/siglip_series/README.md)
+1. [SigLiP系列](general_embedding/cross_modal_embedding/siglip_series/README.md)
    - siglip2-giant-opt-patch16-384
 
-2. [InternViT系列](../../general_embedding/cross_modal_embedding/internvit_series/README.md)
+2. [InternViT系列](general_embedding/cross_modal_embedding/internvit_series/README.md)
    - InternViT-300M-448px-V2_5
 
-3. [Gme-Qwen系列](../../general_embedding/cross_modal_embedding/gme_qwen_series/README.md)
+3. [Gme-Qwen系列](general_embedding/cross_modal_embedding/gme_qwen_series/README.md)
    - gme-Qwen2-VL-7B-Instruct
 
 ## 使用说明

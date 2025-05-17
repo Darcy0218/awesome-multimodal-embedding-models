@@ -42,6 +42,8 @@ Please select your preferred language above to view the documentation.
 ```
 .
 ├── docs/                     # 文档目录
+│   ├── en/                  # 英文文档
+│   ├── zh/                  # 中文文档
 │   ├── general_embedding/    # 通用嵌入模型
 │   │   ├── visual_embedding/ # 视觉嵌入模型
 │   │   │   ├── vit_series/   # ViT系列
@@ -55,8 +57,7 @@ Please select your preferred language above to view the documentation.
 │   └── special_embedding/    # 专用嵌入模型
 │       └── street_clip_series/   # 街景专用模型系列
 │
-├── README.md
-└── embedding_models_summary.md
+└── README.md                # 项目主文档
 ```
 
 ## 评估指标

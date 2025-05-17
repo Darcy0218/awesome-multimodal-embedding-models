@@ -52,8 +52,7 @@
 │   └── special_embedding/    # 专用嵌入模型
 │       └── street_clip_series/   # 街景专用模型系列
 │
-├── README.md
-└── embedding_models_summary.md
+└── README.md
 ```
 
 ## 评估指标

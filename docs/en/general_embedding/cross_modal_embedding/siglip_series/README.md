@@ -1,3 +1,4 @@
+[EN](README.md)|[ZH](../../../../zh/general_embedding/cross_modal_embedding/siglip_series/README.md)
 # SigLiP Series
 
 ## siglip2-giant-opt-patch16-384

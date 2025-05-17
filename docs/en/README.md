@@ -52,8 +52,7 @@ For detailed information on each series, please refer to the README.md file in t
 │   └── special_embedding/    # Special embedding models
 │       └── street_clip_series/   # Street scene model series
 │
-├── README.md
-└── embedding_models_summary.md
+└── README.md
 ```
 
 ## Evaluation Metrics

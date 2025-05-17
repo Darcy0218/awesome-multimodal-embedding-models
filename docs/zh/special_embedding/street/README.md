@@ -1,4 +1,4 @@
-[EN](../../en/special_embedding/street_clip_series/README.md)|[ZH](README.md)
+[EN](../../../en/special_embedding/street/README.md)|[ZH](README.md)
 # 街景专用模型系列
 
 ## StreetCLIP

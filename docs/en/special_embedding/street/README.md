@@ -1,4 +1,4 @@
-[EN](README.md)|[ZH](../../zh/special_embedding/street_clip_series/README.md)
+[EN](README.md)|[ZH](../../../zh/special_embedding/street/README.md)
 # Street Scene Models
 
 ## StreetCLIP

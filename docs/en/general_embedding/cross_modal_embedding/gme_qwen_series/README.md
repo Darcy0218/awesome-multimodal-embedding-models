@@ -1,3 +1,4 @@
+[EN](README.md)|[ZH](../../../../zh/general_embedding/cross_modal_embedding/gme_qwen_series/README.md)
 # Gme-Qwen Series
 
 ## gme-Qwen2-VL-7B-Instruct

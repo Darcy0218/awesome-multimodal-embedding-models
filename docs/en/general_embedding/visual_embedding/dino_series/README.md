@@ -1,3 +1,4 @@
+[EN](README.md)|[ZH](../../../../zh/general_embedding/visual_embedding/dino_series/README.md)
 # DINO Series
 
 ## dinov2-small

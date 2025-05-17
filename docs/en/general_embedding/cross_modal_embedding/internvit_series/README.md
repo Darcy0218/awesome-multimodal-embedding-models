@@ -1,3 +1,4 @@
+[EN](README.md)|[ZH](../../../../zh/general_embedding/cross_modal_embedding/internvit_series/README.md)
 # InternViT Series
 
 ## InternViT-300M-448px-V2_5

@@ -17,7 +17,7 @@ This project collects and organizes detailed information on various multimodal e
    - WebSSL-DINO Series (various 1b-7b variants)
 
 ### Special Embedding Models
-1. [Street Scene Model Series](special_embedding/street_clip_series/README.md)
+1. [Street Scene Model Series](special_embedding/street/README.md)
    - StreetCLIP
 
 #### Cross-modal Embedding Models

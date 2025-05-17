@@ -17,7 +17,7 @@
    - WebSSL-DINO系列 (1b-7b各种变体)
 
 ### 专用嵌入模型 (Special Embedding Models)
-1. [街景专用模型系列](special_embedding/street_clip_series/README.md)
+1. [街景专用模型系列](special_embedding/street/README.md)
    - StreetCLIP
 
 #### 跨模态嵌入模型 (Cross-modal Embedding Models)

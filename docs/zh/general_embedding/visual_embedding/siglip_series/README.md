@@ -2,4 +2,6 @@
 
 ## siglip2-giant-opt-patch16-384
 - 模型型号: google/siglip2-giant-opt-patch16-384
-- 输出embedding维度: 1536 
+- 输出embedding维度: 1536
+- Hugging Face: [google/siglip2-giant-opt-patch16-384](https://huggingface.co/google/siglip2-giant-opt-patch16-384)
+- GitHub: [google-research/siglip](https://github.com/google-research/siglip) 

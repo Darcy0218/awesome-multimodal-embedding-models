@@ -3,4 +3,6 @@
 
 ## StreetCLIP
 - 模型型号: geolocal/StreetCLIP
-- 输出embedding维度: 768 
+- 输出embedding维度: 768
+- Hugging Face: [geolocal/StreetCLIP](https://huggingface.co/geolocal/StreetCLIP)
+- GitHub: [geolocal/StreetCLIP](https://github.com/geolocal/StreetCLIP) 

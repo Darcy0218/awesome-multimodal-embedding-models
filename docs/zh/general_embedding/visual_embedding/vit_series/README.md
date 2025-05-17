@@ -1,5 +1,5 @@
 [EN](../../../../en/general_embedding/visual_embedding/vit_series/README.md)|[ZH](README.md)
-# ViT系列模型
+# ViT系列
 
 ## vit-base-patch16-224-in21k
 - 模型型号: google/vit-base-patch16-224-in21k

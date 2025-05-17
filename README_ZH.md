@@ -1,8 +1,4 @@
-# Multimodal Embedding Models Summary
-
-[English](README_EN.md) | [中文](README_ZH.md)
-
-Please select your preferred language above to view the documentation.
+# 多模态嵌入模型总结
 
 本项目收集和整理了各种多模态嵌入模型的详细信息，包括模型规格、输出维度和使用说明等。
 

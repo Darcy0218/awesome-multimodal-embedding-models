@@ -1,6 +1,6 @@
 [EN](README.md)|[ZH](../../zh/special_embedding/street_clip_series/README.md)
-# Street Scene Model Series
+# Street Scene Models
 
 ## StreetCLIP
-- Model Name: geolocal/StreetCLIP
-- Embedding Dimension: 768 
+- Model: geolocal/StreetCLIP
+- Output embedding dimension: 768 

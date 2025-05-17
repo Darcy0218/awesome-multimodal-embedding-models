@@ -20,7 +20,7 @@ Please select your preferred language above to view the documentation.
    - WebSSL-DINO系列 (1b-7b各种变体)
 
 ### 专用嵌入模型 (Special Embedding Models)
-1. [街景专用模型系列](docs/special_embedding/street_clip_series/README.md)
+1. [街景专用模型系列](docs/special_embedding/street/README.md)
    - StreetCLIP
 
 #### 跨模态嵌入模型 (Cross-modal Embedding Models)
@@ -55,7 +55,7 @@ Please select your preferred language above to view the documentation.
 │   │       └── gme_qwen_series/  # Gme-Qwen系列
 │   │
 │   └── special_embedding/    # 专用嵌入模型
-│       └── street_clip_series/   # 街景专用模型系列
+│       └── street/           # 街景专用模型系列
 │
 └── README.md                # 项目主文档
 ```
@@ -74,24 +74,30 @@ Please select your preferred language above to view the documentation.
 
 多模态嵌入模型在以下场景中发挥着重要作用：
 
-1. 跨模态检索
+1. 大模型RAG（检索增强生成）
+   - 私有化知识库向量化
+   - 多模态知识检索增强
+   - 跨模态语义对齐
+
+2. 跨模态检索与匹配
    - 文本到图像搜索
    - 图像到文本搜索
-   - 音频到文本搜索
+   - 多模态语义匹配
 
-2. 零样本分类
-   - 图像分类
-   - 音频分类
-   - 视频分类
+3. 零样本学习与分类
+   - 图像分类与识别
+   - 视频场景理解
+   - 跨模态迁移学习
 
-3. 多模态内容理解
-   - 图像描述生成
-   - 视频理解
-   - 多模态问答
+4. 多模态内容理解
+   - 视频理解与分析
+   - 多模态问答系统
+   - 场景语义解析
 
-4. 推荐系统
+5. 智能推荐系统
    - 跨模态内容推荐
-   - 个性化搜索
+   - 个性化搜索排序
+   - 用户兴趣建模
 
 ## 贡献指南
 

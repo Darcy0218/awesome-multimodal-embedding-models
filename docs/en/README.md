@@ -70,24 +70,30 @@ The main metrics for evaluating multimodal embedding models include:
 
 Multimodal embedding models play an important role in the following scenarios:
 
-1. Cross-modal retrieval
+1. LLM RAG (Retrieval-Augmented Generation)
+   - Private knowledge base vectorization
+   - Multimodal knowledge retrieval enhancement
+   - Cross-modal semantic alignment
+
+2. Cross-modal Retrieval and Matching
    - Text-to-image search
    - Image-to-text search
-   - Audio-to-text search
+   - Multimodal semantic matching
 
-2. Zero-shot classification
-   - Image classification
-   - Audio classification
-   - Video classification
+3. Zero-shot Learning and Classification
+   - Image classification and recognition
+   - Video scene understanding
+   - Cross-modal transfer learning
 
-3. Multimodal content understanding
-   - Image captioning
-   - Video understanding
-   - Multimodal question answering
+4. Multimodal Content Understanding
+   - Video understanding and analysis
+   - Multimodal question answering systems
+   - Scene semantic parsing
 
-4. Recommendation systems
+5. Intelligent Recommendation Systems
    - Cross-modal content recommendation
-   - Personalized search
+   - Personalized search ranking
+   - User interest modeling
 
 ## Contribution Guide
 

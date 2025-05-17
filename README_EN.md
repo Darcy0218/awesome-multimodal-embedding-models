@@ -7,26 +7,26 @@ This project collects and organizes detailed information about various multimoda
 ### General Embedding Models
 
 #### Visual Embedding Models
-1. [ViT Series](docs/general_embedding/visual_embedding/vit_series/README.md)
+1. [ViT Series](docs/en/general_embedding/visual_embedding/vit_series/README.md)
    - vit-base-patch16-224-in21k
    - vit-huge-patch14-224-in21k
 
-2. [DINO Series](docs/general_embedding/visual_embedding/dino_series/README.md)
+2. [DINO Series](docs/en/general_embedding/visual_embedding/dino_series/README.md)
    - DINOv2 series (small, base, large, giant)
    - WebSSL-DINO series (various variants from 1b-7b)
 
 ### Special Embedding Models
-1. [Street Scene Model Series](docs/special_embedding/street_clip_series/README.md)
+1. [Street Scene Model Series](docs/en/special_embedding/street_clip_series/README.md)
    - StreetCLIP
 
 #### Cross-modal Embedding Models
-1. [SigLiP Series](docs/general_embedding/cross_modal_embedding/siglip_series/README.md)
+1. [SigLiP Series](docs/en/general_embedding/cross_modal_embedding/siglip_series/README.md)
    - siglip2-giant-opt-patch16-384
 
-2. [InternViT Series](docs/general_embedding/cross_modal_embedding/internvit_series/README.md)
+2. [InternViT Series](docs/en/general_embedding/cross_modal_embedding/internvit_series/README.md)
    - InternViT-300M-448px-V2_5
 
-3. [Gme-Qwen Series](docs/general_embedding/cross_modal_embedding/gme_qwen_series/README.md)
+3. [Gme-Qwen Series](docs/en/general_embedding/cross_modal_embedding/gme_qwen_series/README.md)
    - gme-Qwen2-VL-7B-Instruct
 
 ## Usage Instructions
